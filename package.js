@@ -3,7 +3,7 @@ var coreDependencies = [
     'ecmascript',
     'svein:serrurier@1.0.0',
     'svein:serrurier-cadenas-defaults@1.0.0',
-    'alanning:roles@1.2.15'
+    'alanning:roles@2.0.0'
 ];
 
 Npm.depends({
@@ -12,7 +12,7 @@ Npm.depends({
 
 Package.describe({
     name: 'svein:serrurier-cadenas-roles',
-    version: '1.0.0',
+    version: '2.0.0',
     // Brief, one-line summary of the package.
     summary: 'Provides cadenas using the alanning:roles package',
     // URL to the Git repository containing the source code for this package.
